@@ -1,6 +1,16 @@
 ## Hi, I'm luckysquirrel1
 
-前端工程师，5 年工作经验，专注数据可视化方向——把复杂的数据变成清晰、可交互的界面。
+网络空间安全博士（中国科学院），专注威胁情报与日志检测，目前从事 DDoS 攻防与漏洞研究，并探索 LLM Agent 在安全场景中的落地。
+
+---
+
+### 研究方向
+
+- **威胁情报**：情报采集、关联分析与知识图谱构建
+- **日志检测**：基于日志的异常检测与攻击行为识别
+- **DDoS**：攻击检测、流量分析与防护策略
+- **漏洞研究**：漏洞分析与复现
+- **CTF**：正在重新捡起，主攻 Web / Misc
 
 ---
 
@@ -8,32 +18,29 @@
 
 **语言**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**框架与运行时**
+**AI / LLM**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=flat-square)
+![LLM Agent](https://img.shields.io/badge/LLM_Agent-24292F?style=flat-square)
 
-**专注领域**
+**数据与知识图谱**
 
-- 数据可视化：图表组件封装、交互设计、大数据量渲染优化
-- 前端工程化：组件库设计、TypeScript 类型体系
-- 可视化库：<需要补充，例如 ECharts / D3.js / AntV 等实际使用的库>
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Stardog](https://img.shields.io/badge/Stardog-2C3E50?style=flat-square)
 
 ---
 
-### 高亮项目
+### 工作经历
 
-| 项目 | 简介 | 技术栈 | 状态 |
-| --- | --- | --- | --- |
-| [<需要补充：配置器项目名>](<需要补充：仓库链接>) | 开源图表库的可视化配置器，通过图形界面生成和调试图表配置 | <需要补充> | 开发中 |
-| [个人博客](https://blog.example.com) | 记录前端与数据可视化相关的技术文章 | <需要补充> | 持续更新 |
-| [<需要补充：开源项目 A>](<需要补充：仓库链接>) | <需要补充：一句话简介> | <需要补充> | 维护中 |
-| [<需要补充：开源项目 B>](<需要补充：仓库链接>) | <需要补充：一句话简介> | <需要补充> | 维护中 |
+- **LLM 微调**：面向安全领域任务的大模型微调
+- **告警降噪**：对海量安全告警进行聚合、过滤与优先级排序，降低误报
+- **攻击检测**：基于日志与流量数据的攻击行为检测
+
+> 个人博客筹备中，上线后会在这里更新。
 
 ---
 
@@ -48,18 +55,8 @@
 
 ---
 
-### 写作
-
-喜欢写技术文章，主要围绕数据可视化、前端工程化与开源实践。
-
-- 博客：[blog.example.com](https://blog.example.com)
-- 近期文章：<需要补充>
-
----
-
 ### 联系方式
 
-[![Email](https://img.shields.io/badge/Email-example@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:example@email.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.example.com-000000?style=flat-square&logo=rss&logoColor=white)](https://blog.example.com)
+[![Email](https://img.shields.io/badge/Email-luckysquirrel1@163.com-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:luckysquirrel1@163.com)
 
-欢迎交流数据可视化、前端技术或开源合作相关的话题。
+欢迎交流威胁情报、DDoS 防护、漏洞研究、LLM 安全应用或 CTF 组队相关的话题。
